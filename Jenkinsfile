@@ -14,7 +14,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying...'
-                echo 'Sammed.B.V'
+                echo 'Sammed.Bharat.Vaigude'
             }
         }
     }
